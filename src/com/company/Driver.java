@@ -2,8 +2,8 @@ package com.company;
 
 public class Driver {
 
-    private static String name;
-    private static int age;
+    private String name;
+    private int age;
 
     public Driver(String name, int age) {
         this.name = name;
